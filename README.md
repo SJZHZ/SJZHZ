@@ -1,4 +1,5 @@
 # SJZHZ
+![avatar](https://account.bilibili.com/account/face/upload?spm_id_from=333.999.0.0)
 ## Double Ten
 ```txt
 毕业于厦门双十中学（枋湖校区）
