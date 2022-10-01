@@ -1,4 +1,17 @@
-### Hi there 👋
+# SJZHZ
+## Double Ten
+```txt
+毕业于厦门双十中学（枋湖校区）
+```
+## CChO
+```txt
+曾经对化学有兴趣
+```
+## PKU
+
+## DS/CS
+
+
 
 <!--
 **SJZHZ/SJZHZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
