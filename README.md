@@ -1,5 +1,5 @@
 # SJZHZ
-![avatar](../../Rina.png)
+![avatar](Rina.png)
 ## Double Ten
 ```txt
 毕业于厦门双十中学（枋湖校区）
