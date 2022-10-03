@@ -1,5 +1,5 @@
 # SJZHZ
-![](images/Setsuna.PNG)
+![](../images/Setsuna.PNG)
 ## Double Ten
 ```txt
 毕业于厦门双十中学（枋湖校区）
