@@ -2,11 +2,11 @@
 ![](images/Setsuna.PNG)
 ## Double Ten
 ```txt
-毕业于厦门双十中学（枋湖校区）
+2016-2019 厦门双十中学（枋湖校区）
 ```
 ## CChO
 ```txt
-曾经对化学竞赛有兴趣
+32nd CChO
 ```
 ## PKU
 😭😭😭
