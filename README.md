@@ -1,13 +1,6 @@
 # SJZHZ
 ![](images/Setsuna.PNG)
-## Double Ten
-```txt
-2016-2019 厦门双十中学（枋湖校区）
-```
-## CChO
-```txt
-32nd CChO
-```
+
 ## PKU
 😭😭😭
 ## DS/CS
