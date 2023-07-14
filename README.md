@@ -1,12 +1,6 @@
 # SJZHZ
 ![](images/Setsuna.PNG)
 
-## PKU
-😭😭😭
-## DS/CS
-```txt
-学了，但没学会
-```
 
 <!--
 **SJZHZ/SJZHZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
